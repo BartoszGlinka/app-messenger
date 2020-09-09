@@ -1,0 +1,13 @@
+{
+  "name": "app-messeng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bartosz Glinka <bartosz.glinka@hotmail.com--global>",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.12",
+    "express": "4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": { "start" : "nodemon server.js" }
+}
