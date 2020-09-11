@@ -82,6 +82,9 @@ p {
     animation: fadeIn;
     animation-duration: 3s;
 }
+.message--cursive {
+  font-style: italic;
+}
 
 .message__author {
   font-size: 0.8rem;
